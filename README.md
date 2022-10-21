@@ -1,4 +1,4 @@
-# Mineração de-dados na rede social Twitter
+# Mineração de dados na rede social Twitter
 
 As plataformas de mídia social fornecem uma forma de obter informações por meio de interações em postagens. Quando surge um aumento do número de casos de doenças
 que superam o número esperado por região e ameaças à saúde pública, esses meios de comunicação podem auxiliar na tomada de decisão a prever padrões epidemiológicos
