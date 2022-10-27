@@ -1,11 +1,12 @@
 
 # UFS - Universidade Federal de Sergipe
-Bacharelando em Sistemas de Informação
+Bacharelando em Sistemas de Informação (2022)
 
 # TRABALHO DE CONCLUSÃO DE CURSO
-Título: Avaliação de Sentimentos em Mensagens da Rede Social Twitter para Apoiar Decisões de Gestão em Saúde Pública
+Título: Avaliação de Sentimentos em Mensagens da Rede Social Twitter para Apoiar Decisões de Gestão em Saúde Publica
 
 ALUNO: Wagner Santos Prata
+ORIENTADOR: Dr. Marcos Barbosa Dósea
 
 Este notebook é referente ao Trabalho de Conclusão de Curso em Sistemas de Informação.
 
